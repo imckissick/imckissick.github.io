@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: Post
 title: The Swiss Army Flash Drive
 author: Ian McKissick
 date: 2018-07-01
