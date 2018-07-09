@@ -2,7 +2,7 @@
 layout: Post
 title: The Swiss Army Flash Drive
 author: Ian McKissick
-date: 2018-07-01
+date: 2018-07-01 22:00:00 -0400
 categories: weekend-projects tools
 ---
 
