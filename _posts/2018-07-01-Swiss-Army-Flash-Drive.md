@@ -8,7 +8,7 @@ tags: weekend-projects tools
 
 # The Swiss Army Flash Drive
 
-## Introduction
+[Insert a brief description here]
 
 ## Part 1: The Drive Itself
 
